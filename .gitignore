@@ -1,1 +1,7 @@
 _site
+docs/
+
+# Bundle stuff
+.vendor/
+.bundle/
+Gemfile.lock
